@@ -16,7 +16,7 @@ variable "common_tags" {
 }
 
 variable "domain_name" {
-  default = "joindevops.online"
+  default = "jcglobalit.online"
 }
 
 variable "app_version" {
